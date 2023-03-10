@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mschuermann
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning M.Sc. Business Analytics at Trinity College Dublin 21/22 
+- 👀 I’m interested in Business Analytics, Automation and any related projects to drive efficiencies, especially in accounting and auditing. 
 - 💞️ I’m looking to collaborate on business data projects
 - 📫 How to reach me linkedin.com/in/mschuermann/
 
